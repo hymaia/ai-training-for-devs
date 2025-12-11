@@ -1,0 +1,29 @@
+[project]
+name = "ai-training-for-devs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastembed>=0.7.4",
+    "gradio>=6.1.0",
+    "langchain>=1.1.3",
+    "langchain-openai>=1.1.1",
+    "langchain-qdrant>=1.1.0",
+    "langchain-text-splitters>=1.0.0",
+    "langgraph>=1.0.4",
+    "matplotlib>=3.10.8",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "seaborn>=0.13.2",
+    "tiktoken>=0.12.0",
+    "torch>=2.9.1",
+    "umap-learn>=0.5.9.post2",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "ruff>=0.14.8",
+]
