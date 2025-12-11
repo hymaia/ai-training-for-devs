@@ -1,12 +1,3 @@
-# React Agent
-
-A Python library for building reactive AI agents using LangChain, LangGraph, and OpenAI.
-
-## Overview
-
-React Agent provides a framework for creating intelligent agents that can process data, interact with AI models, and perform complex reasoning tasks. Built on top of LangChain and LangGraph, it offers a powerful toolkit for developing agent-based applications.
-
-
 ## Prerequisites
 
 - Python 3.11 or higher
