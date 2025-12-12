@@ -1,0 +1,221 @@
+[
+    {
+        "input": "The person who bought my item received a notification saying their package was available, but when they went to the pickup point, the order couldn’t be found.  \nWill I still get paid?",
+        "expected_output": "Hello,  \nTo report a package as not received, please follow these steps:  \n\n1. Go to the secure AI-Bay messaging system and open the conversation related to your purchase.  \n2. A notification will appear saying “I have received the item or I have a problem.”  \n3. Click on “No, I haven’t received the package.” If only the button “Yes, I have received the package” appears, it means it’s still too early to report it as not received. You must wait until the 6th day after the package was sent.  \n4. Click on “Request AI-Bay assistance.”  \n5. Fill out the contact form describing your issue.  \n\nYour transaction will then be suspended until the issue is resolved.  \n\nPlease note: if you haven’t reported anything (neither received nor not received) within 15 days, we will consider the package as delivered. From that point, you still have 3 days to report a problem.",
+        "metadata": {
+            "faq_ids": [
+                6213278240274,
+                4417741184018
+            ],
+            "idx": 37,
+            "ticket_id": 31729197
+        }
+    },
+    {
+        "input": "Hello,  \nThe room I’m renting was mistakenly listed under the “guesthouse” category. However, the city hall has classified it as a furnished rental without a rating. It’s a private room in my main residence.  \nCould you please change this classification? I’ve tried but can’t find any option that allows it.  \nThank you,  \nJohn R",
+        "expected_output": "Hello,  \nYou’re having trouble editing your listing “Air-conditioned master suite-style room with private entrance.”  \n\nPlease note that the following fields cannot be modified for technical reasons:  \n- The location fields of your listing (region, department)  \n- The category of the listing  \n- The type (individual / professional, or offer / request)  \n\nIf you wish to change this information, please delete your current listing and create a new one with the desired modifications.  \n\nNote: if you had subscribed to any paid options, they will be lost.  \n\nFor more information, please check the following link: How to edit my listing?",
+        "metadata": {
+            "faq_ids": [
+                360000178389
+            ],
+            "idx": 21,
+            "ticket_id": 30328944
+        }
+    },
+    {
+        "input": "On the AI-Bay website, I don’t have the option to add an IBAN or a payment card.  \nI went to Settings → Payment Methods, but there’s no way to make any changes.",
+        "expected_output": "Hello,  \nYou would like to register your banking details for the secure payment service.  \n\nIt appears that you haven’t made any sales on the site yet, so the option to register your IBAN is not available at this time.  \n\nYou’ll be able to complete this step once you’ve initiated a sale.  \n\nFor more information, please refer to this article.",
+        "metadata": {
+            "faq_ids": [
+                360015484120
+            ],
+            "idx": 42,
+            "ticket_id": 31270647
+        }
+    },
+    {
+        "input": "Why should I use online booking?",
+        "expected_output": "Hello,  \nThis document explains in detail all the benefits of online booking for hosts:  \n\n- It’s a free service — you pay no commission on bookings (0% fees)  \n- You receive qualified booking requests through the calendar, saving you time  \n- Online booking increases your listing’s effectiveness and helps you convert more requests  \n- We handle the collection and payment of the tourist tax for you  \n- You maintain full control over your bookings and cancellations  \n- You can easily communicate with travelers through the secure messaging system",
+        "metadata": {
+            "faq_ids": [
+                4487194582546
+            ],
+            "idx": 13,
+            "ticket_id": null
+        }
+    },
+    {
+        "input": "Hello,  \n\nI believe I posted an ad in June 2012 for a house, and I’d like to retrieve its content.  \n\nThank you in advance.  \n\nKind regards,  \nAlbert Einstein",
+        "expected_output": "Hello,  \nFor your saved searches:  \n\n- Log in to your user account on the website  \n- Click on the “My searches” menu  \n- For each saved alert, you can choose to enable or disable email and SMS notifications by clicking on the corresponding icon  \n\nThe “envelope” symbol refers to email notifications, and the “smartphone” symbol refers to app notifications.  \nWhen the icon is orange, the notification is active.",
+        "metadata": {
+            "faq_ids": [
+                360000161345
+            ],
+            "idx": 71,
+            "ticket_id": 34054064
+        }
+    },
+    {
+        "input": "Hello, I’m not very familiar with how to post an ad, and I just boosted my listing for 30 days. However, I’ve realized that it’s in the wrong category, which is why I tried to re-enter a new ad for the horse-drawn carriage. The “Leisure” section is correct, but the subcategory isn’t — it should be “Sports and Outdoor” instead of “Games.”  \nWould it be possible for you to modify it?  \nThank you in advance,  \nIsaac Newton",
+        "expected_output": "Hello,  \nPlease note that the following fields cannot be modified:  \n- The location fields of your listing (region, department)  \n- The category of the listing  \n- The type (individual/professional or offer/request)  \n\nIf you wish to change this information, please delete your listing \"Horse-drawn Car\" and create a new one.  \n\nBe aware that if you had subscribed to any paid options, they will be lost.  \n\nFor more information, click here: How to edit my listing?",
+        "metadata": {
+            "faq_ids": [
+                360000178389
+            ],
+            "idx": 26,
+            "ticket_id": 31721134
+        }
+    },
+    {
+        "input": "Hello,  \nI would like to create a professional account for the community because we have apartments for rent.  \nWhen creating my account, I can’t upload my supporting document. It’s 20 KB, and the maximum size allowed is 5 MB.  \nI don’t know how to compress it.  \nLooking forward to a quick response.",
+        "expected_output": "Hello,  \nYou are experiencing difficulties creating your professional account and uploading a supporting document.  \n\nThank you for the document you sent.  \n\nTo ensure your document is accepted, it must be in GIF, BMP, PNG, or JPEG format. I also recommend reducing its file size.  \n\nI remain available to assist you further if needed.",
+        "metadata": {
+            "faq_ids": [],
+            "idx": 58,
+            "ticket_id": 31073169
+        }
+    },
+    {
+        "input": "Hello,  \nCould you please unblock a person I blocked a few days ago?  \nIt’s the person who just bought the dress from me, and I can’t confirm the availability.  \nThank you in advance.  \nKind regards,  \nMrs. C",
+        "expected_output": "Hello,  \nYou would like to unblock a contact from the AI-Bay messaging system.  \n\nTo do this:  \n\n**From the website:**  \n- Log in to your user account using your email and password.  \n- Click on \"Messages\" at the top right of the page.  \n- Select the relevant listing to continue your conversation with the contact.  \n- Click on \"Block user\" at the top right of the conversation.  \n\n**From the iOS app:**  \nIn your messages, a menu appears allowing you to \"block/unblock the user\" or \"delete the conversation\":  \n- Either by clicking \"More\" at the top right of the conversation,  \n- Or from the list of conversations by swiping the conversation to the left.  \n\nPlease note that if you deleted the conversation before blocking a user, unblocking them will not restore the deleted conversation.",
+        "metadata": {
+            "faq_ids": [
+                360000030880
+            ],
+            "idx": 53,
+            "ticket_id": 30910193
+        }
+    },
+    {
+        "input": "I can’t find my listings on the AI-Bay site.",
+        "expected_output": "Hello,  \nHere are the steps to help you find your listings:  \n\n- Log in to your user account using your email and password.  \n- Go to the \"Listings\" section.  \nOr  \n- Enter the title of the listing in the search bar.  \n- Select the category of your listing.  \n- Click on \"Search.\"  \n\nYou can also search for your listings by posting date or by price order.  \n\nFor more information, please click the following link: How to find my listing?  \n\nI hope this information has been helpful, and I remain available to assist you further.",
+        "metadata": {
+            "faq_ids": [
+                360000161345
+            ],
+            "idx": 18,
+            "ticket_id": 31273863
+        }
+    },
+    {
+        "input": "Hello, following an ad I posted, one buyer backed out of the purchase. I would like to remove my IBAN because I don’t do shipping or online payments. Therefore, this information is not useful.  \nBest regards",
+        "expected_output": "Hello,  \nYou would like to remove your IBAN from your AI-Bay user account.  \n\nPlease note that this action must be performed by you directly from your user interface.  \n\nTo do so, go to your account settings, open the \"Payment Methods\" section, and click on the small trash icon at the top right.",
+        "metadata": {
+            "faq_ids": [
+                360014463899
+            ],
+            "idx": 49,
+            "ticket_id": 30306607
+        }
+    },
+    {
+        "input": "Hello, I’m contacting you to find out whether sales on AI-Bay need to be declared, and if so, from when and how should it be done?  \nThank you in advance.",
+        "expected_output": "Hello,  \nYou would like to obtain information regarding the law on combating tax fraud.  \nPlatforms are indeed required to transmit to the tax authorities the information they hold about transactions made by their users, according to the following criteria:  \n\n- For consumer goods, once the user has reached €2,000 in transactions and 30 transactions (both conditions must be met) during the reference year.  \n- For vacation rentals, starting from the very first euro.  \n\nHowever, AI-Bay has limited visibility over transactions between its users, as most of them are carried out face-to-face. Therefore, only transactions made through the secure payment solution on our site can be taken into account.  \n\nFor more information, I invite you to contact your tax administration and consult this article.",
+        "metadata": {
+            "faq_ids": [
+                7970460300562
+            ],
+            "idx": 38,
+            "ticket_id": 31072866
+        }
+    },
+    {
+        "input": "Hello,  \n\nMy listing was rejected on the grounds that the Nike sneakers are not authentic/original. This is completely false — attached is the purchase receipt for these sneakers from February 2023.  \n\nPlease publish my listing without delay.  \nThank you.",
+        "expected_output": "Hello,  \n\nAccording to the FAQ documents, there are several possible reasons why a listing might be rejected, particularly if the product offered is not authorized.  \n\nI understand your frustration; however, certain rules are in place to ensure that listings comply with our standards.  \n\nAfter a rejection, it is recommended to:  \n\n- Check that the listing complies with all posting rules  \n- Make sure the product is allowed for sale  \n- Slightly modify the listing (photos, text, title) before reposting it  \n\nYou can also contact our customer service by replying to this message to appeal the decision with an agent.",
+        "metadata": {
+            "faq_ids": [
+                360000030540
+            ],
+            "idx": 77,
+            "ticket_id": 35559138
+        }
+    },
+    {
+        "input": "This is a follow-up regarding your previous request #31233727 — Unable to make a purchase.  \n\nHello,  \n\nQuick question:  \n\nWhy isn’t it possible to make a 3- or 4-installment payment on AI-Bay using the balance from my AI-Bay account?  \n\nI currently have €111, but I only see the item price, the buyer protection fee, and the deduction of €111 — no option for 3 or 4 payments.  \n\nIs this normal?  \n\nThank you,  \nBest regards",
+        "expected_output": "Hello,  \nFirst, please note that payment in installments is subject to certain conditions:  \n- You must reside in France  \n- You must have a Visa or Mastercard bank card (note: some cards, such as Visa Electron or Nickel accounts, are not accepted)  \n- Your card’s expiration date must be more than 4 months away at the time of purchase  \n\nWhen you make a purchase and your wallet is credited, the available balance will automatically be used during payment.  \n\nFor eligible listings, you can view the payment schedule set up by our partner Oney (you’ll also receive it by email once the purchase is completed).  \n\nYou can select this payment option on the payment page.  \n\nManagement fees are as follows:  \n- 1.45% of the total amount (including tax) for 3-installment payments  \n- 2.20% of the total amount (including tax) for 4-installment payments  \n\nFor your information, the total amount includes the item price, delivery fees, and AI-Bay protection fees.  \n\nThe first installment will be charged at the time of purchase, followed by monthly payments until the end of the plan.  \n\nIf your order is canceled before shipment or if there’s a dispute with the seller, the first installment will be fully refunded, along with delivery and AI-Bay protection fees. The remaining installments will be canceled.",
+        "metadata": {
+            "faq_ids": [
+                6950191700498
+            ],
+            "idx": 43,
+            "ticket_id": 31755562
+        }
+    },
+    {
+        "input": "Hello,  \n\nThank you in advance for permanently DELETING my AI-Bay account, as it has been “blocked” and I can no longer use it.  \n\nKind regards.",
+        "expected_output": "Hello,  \nI understand your request to delete your blocked account.  \nUnfortunately, I cannot perform this action myself, as it requires the intervention of an agent.  \n\nPlease note, however, that deleting the account will also permanently remove all associated personal data within a maximum of 30 days.",
+        "metadata": {
+            "faq_ids": [],
+            "idx": 56,
+            "ticket_id": 29421595
+        }
+    },
+    {
+        "input": "Hello,  \n\nAm I required to pay the AI-Bay protection fee of €0.99? Why is it impossible to remove it, and how can I make it optional?  \n\nAlso, I can only make four purchases on the AI-Bay site with my bank card — beyond that, my card no longer works.  \n\nThank you.  \nBest regards.",
+        "expected_output": "Hello,  \nTo ensure a secure shopping experience on AI-Bay, we have chosen to apply a 4% commission on the item price (with a minimum of €0.99), in addition to the purchase price.  \n\nThese fees are paid by the buyer at the time of the order. They contribute to the operation and improvement of our platform, its various features, and allow you to shop with peace of mind — a dedicated customer service team is available to assist you in case of any issues.  \n\nFinally, please note that secure payment is not optional for online purchases. Therefore, if you prefer not to use this service, we invite you to contact the seller via messaging to agree on alternative payment arrangements.",
+        "metadata": {
+            "faq_ids": [
+                4417740553234
+            ],
+            "idx": 45,
+            "ticket_id": 31841609
+        }
+    },
+    {
+        "input": "Hello,  \nMy listing has been pending validation since this morning.  \nAt first, I thought the issue was on my end. After trying five times, I believe it’s a technical problem on AI-Bay’s side.  \nCould you please help me publish my listing?  \nThank you.  \nBest regards,  \nBrandon Lee",
+        "expected_output": "Hello,  \nSometimes validation may take a little longer due to a temporary technical issue. We are doing everything possible to resolve this as quickly as we can.  \nI kindly ask you to wait a little longer.",
+        "metadata": {
+            "faq_ids": [
+                360000015579
+            ],
+            "idx": 64,
+            "ticket_id": 33319557
+        }
+    },
+    {
+        "input": "How does the secure payment system work for used vehicles?",
+        "expected_output": "Hello,  \nThe process for secure payment when buying or selling used vehicles is explained in this FAQ.  \n\nIn summary:  \nOnce the listing is posted, the buyer sends a request to confirm availability. They then transfer the funds to a secure AI-Bay account that acts as an intermediary.  \n\nDuring the in-person handover, the buyer inspects the vehicle and releases the funds if everything matches the description. The seller then receives the payment instantly.  \n\nThis system offers several security benefits:  \n- The seller’s identity is verified  \n- The funds remain secure until the transaction is completed  \n- The buyer can confirm the vehicle’s condition before paying  \n\nYou can find more details about each step here.",
+        "metadata": {
+            "faq_ids": [
+                4465447665298,
+                360011044960
+            ],
+            "idx": 9,
+            "ticket_id": null
+        }
+    },
+    {
+        "input": "The person who bought my item received a notification saying their package was available, but when they went to the pickup point, the order couldn’t be found.  \nWill I still get paid?",
+        "expected_output": "Hello,  \nTo report a package as not received, please follow these steps:  \n\n1. Go to the secure AI-Bay messaging system and open the conversation related to your purchase.  \n2. A notification will appear saying “I have received the item or I have a problem.”  \n3. Click on “No, I haven’t received the package.” If only the button “Yes, I have received the package” appears, it means it’s still too early to report it as not received. You must wait until the 6th day after the package was sent.  \n4. Click on “Request AI-Bay assistance.”  \n5. Fill out the contact form describing your issue.  \n\nYour transaction will then be suspended until the issue is resolved.  \n\nPlease note: if you haven’t reported anything (neither received nor not received) within 15 days, we will consider the package as delivered. From that point, you still have 3 days to report a problem.",
+        "metadata": {
+            "faq_ids": [
+                6213278240274,
+                4417741184018
+            ],
+            "idx": 37,
+            "ticket_id": 31729197
+        }
+    },
+    {
+        "input": "This is a follow-up regarding your previous request #31233727 — Unable to make a purchase.  \n\nHello,  \n\nQuick question:  \n\nWhy isn’t it possible to make a 3- or 4-installment payment on AI-Bay using the balance from my AI-Bay account?  \n\nI currently have €111, but I only see the item price, the buyer protection fee, and the deduction of €111 — no option for 3 or 4 payments.  \n\nIs this normal?  \n\nThank you,  \nBest regards",
+        "expected_output": "Hello,  \nFirst, please note that payment in installments is subject to certain conditions:  \n- You must reside in France  \n- You must have a Visa or Mastercard bank card (note: some cards, such as Visa Electron or Nickel accounts, are not accepted)  \n- Your card’s expiration date must be more than 4 months away at the time of purchase  \n\nWhen you make a purchase and your wallet is credited, the available balance will automatically be used during payment.  \n\nFor eligible listings, you can view the payment schedule set up by our partner Oney (you’ll also receive it by email once the purchase is completed).  \n\nYou can select this payment option on the payment page.  \n\nManagement fees are as follows:  \n- 1.45% of the total amount (including tax) for 3-installment payments  \n- 2.20% of the total amount (including tax) for 4-installment payments  \n\nFor your information, the total amount includes the item price, delivery fees, and AI-Bay protection fees.  \n\nThe first installment will be charged at the time of purchase, followed by monthly payments until the end of the plan.  \n\nIf your order is canceled before shipment or if there’s a dispute with the seller, the first installment will be fully refunded, along with delivery and AI-Bay protection fees. The remaining installments will be canceled.",
+        "metadata": {
+            "faq_ids": [
+                6950191700498
+            ],
+            "idx": 43,
+            "ticket_id": 31755562
+        }
+    },
+    {
+        "input": "Hello,  \n\nI need to send an item via Mondial Relay valued at €225.  \nIn the help center, it says the insurance’s flat-rate compensation matches the item’s value, i.e., €225 (Attachment 1).  \nHowever, in the sale confirmation email, it states €25 (Attachment 2).  \n\nWhich information is correct, please?  \n\nThank you for your help.  \n\nMrs Jackson.",
+        "expected_output": "Hello,  \nYou would like more information about Mondial Relay compensation conditions.  \n\nWhen you use Mondial Relay through our secure payment system, in case of a delivery issue, the seller may be compensated as follows:  \n- Up to the item’s price if the transaction is under €400  \n- Up to €400 if the transaction amount is between €400 and €1000  \n\nPlease note that we do not offer additional insurance. If you wish to obtain extra coverage, you should choose personalized delivery and purchase your shipping label directly from a carrier.  \n\nI invite you to consult this article for more details.",
+        "metadata": {
+            "faq_ids": [
+                6213417017490
+            ],
+            "idx": 51,
+            "ticket_id": 31346848
+        }
+    }
+]
